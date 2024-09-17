@@ -12,18 +12,18 @@
 //answer:
 
 
-let input = 'A'; 
-let asciiCode = input.charCodeAt(0);
+// let input = prompt("enter your character uppercase ya lowercase"); 
+// let asciiCode = input.charCodeAt(0);
 
-if (asciiCode >= 48 && asciiCode <= 57) {
-    console.log("The input is a number.");
-} else if (asciiCode >= 65 && asciiCode <= 90) {
-    console.log("The input is an uppercase letter.");
-} else if (asciiCode >= 97 && asciiCode <= 122) {
-    console.log("The input is a lowercase letter.");
-} else {
-    console.log("The input is neither a number nor a letter.");
-}
+// if (asciiCode >= 48 && asciiCode <= 57) {
+//     console.log("The input is a number.");
+// } else if (asciiCode >= 65 && asciiCode <= 90) {
+//     console.log("The input is an uppercase letter.");
+// } else if (asciiCode >= 97 && asciiCode <= 122) {
+//     console.log("The input is a lowercase letter.");
+// } else {
+//     console.log("The input is neither a number nor a letter.");
+// }
 
 
 
